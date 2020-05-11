@@ -1,8 +1,8 @@
 [package]
-name = "rust-buildpack-example-rocket"
+name = "rustrocket1"
 version = "0.1.0"
-authors = ["Eric Kidd <git@randomhacks.net>"]
+authors = ["puttaraju"]
 edition = "2018"
 
 [dependencies]
-rocket = "0.4"
+rocket = "0.4.4"
